@@ -1,0 +1,501 @@
+product_id,product_name,category,sub_category,brand,base_price,discount_pct,rating_avg,total_reviews,stock_qty,seller_id
+PRD0001,Joshi Group Dal,Grocery,Dal,Ganesh Group,45832.66,15,3.3,1395,713,SEL132
+PRD0002,Atwal and Sons Masala,Grocery,Masala,Dhingra LLC,1974.43,25,4.5,2653,868,SEL006
+PRD0003,Tank and Sons Yoga Mat,Sports,Yoga Mat,Memon-Choudhary,11162.96,5,4.2,490,268,SEL166
+PRD0004,Pal PLC Action Figure,Toys,Action Figure,"Cheema, Iyer and Mittal",43627.95,30,4.2,3637,30,SEL105
+PRD0005,Manne-Badal Board Game,Toys,Board Game,"Singh, Bansal and Jain",14986.18,0,4.4,3304,781,SEL042
+PRD0006,Warrior and Sons Smartwatch,Electronics,Smartwatch,Kari and Sons,15373.05,10,4.4,4179,859,SEL158
+PRD0007,"Koshy, Krishnan and Boase Watch",Fashion,Watch,Keer Inc,65321.27,10,3.7,4612,157,SEL108
+PRD0008,Bir-Raju Lipstick,Beauty,Lipstick,Sule-Kade,61820.57,15,3.7,3758,755,SEL002
+PRD0009,"Dhar, Ravel and Mitter LEGO",Toys,LEGO,"Dave, Guha and Dugal",48879.14,10,3.5,2401,161,SEL008
+PRD0010,Mandal-Kari Self-Help,Books,Self-Help,Varghese-Chand,77799.47,5,4.2,1954,980,SEL084
+PRD0011,Shenoy-Goswami Cricket Bat,Sports,Cricket Bat,"Sagar, Comar and Kalita",9080.73,25,4.4,3438,460,SEL007
+PRD0012,Badami-Krishnamurthy Board Game,Toys,Board Game,Datta PLC,5127.58,25,4.5,3607,194,SEL001
+PRD0013,"Dara, Bhatti and Tella Shampoo",Beauty,Shampoo,Khare Group,79698.92,50,2.9,2234,237,SEL144
+PRD0014,"Subramaniam, Sarna and Shah Yoga Mat",Sports,Yoga Mat,Chakraborty Ltd,64947.26,10,4.5,627,477,SEL186
+PRD0015,Pau PLC Shoes,Fashion,Shoes,Khatri Ltd,37744.5,0,3.5,3097,976,SEL165
+PRD0016,"Parikh, Bir and Chaudry Yoga Mat",Sports,Yoga Mat,Srinivas-Taneja,54240.18,25,4.7,4332,593,SEL194
+PRD0017,Parekh-Bhardwaj Mobile,Electronics,Mobile,Kale Group,30400.11,20,4.7,4768,943,SEL186
+PRD0018,"Sachdeva, Wason and Soman Mixer",Home & Kitchen,Mixer,"Chokshi, Kakar and Morar",26318.98,15,4.8,389,117,SEL122
+PRD0019,Suri Ltd Tablet,Electronics,Tablet,"Badal, Mittal and Din",78187.26,30,4.1,358,456,SEL013
+PRD0020,Jani and Sons Fiction,Books,Fiction,"Raj, Kohli and Dada",41078.54,50,2.6,547,465,SEL041
+PRD0021,"Morar, Kuruvilla and Singh Board Game",Toys,Board Game,Suri-Mahajan,42318.94,30,3.9,2434,852,SEL077
+PRD0022,Pall-Master Moisturizer,Beauty,Moisturizer,Gupta-Garde,52858.04,0,3.6,4239,519,SEL169
+PRD0023,"Sengupta, Venkatesh and Mahajan Lipstick",Beauty,Lipstick,"Subramanian, Naik and Mital",51344.8,40,4.1,737,77,SEL108
+PRD0024,Manne PLC Smartwatch,Electronics,Smartwatch,Modi and Sons,74967.88,5,4.3,3162,879,SEL029
+PRD0025,"Chokshi, Chacko and Mani Bedsheet",Home & Kitchen,Bedsheet,"Dada, Korpal and Bhatt",32521.25,10,2.5,281,543,SEL035
+PRD0026,Uppal-Tiwari Laptop,Electronics,Laptop,"Vyas, Kohli and Dar",50010.79,40,2.6,1445,944,SEL108
+PRD0027,Bajwa-Mand Textbook,Books,Textbook,"Dutt, Dani and Varkey",22484.85,15,3.3,4883,390,SEL162
+PRD0028,"Bala, Halder and Sen LED Light",Home & Kitchen,LED Light,Natarajan PLC,26753.93,50,4.2,3979,921,SEL002
+PRD0029,"Peri, Vohra and Sankaran Jeans",Fashion,Jeans,"Kale, Narula and Das",925.61,20,4.5,1178,305,SEL042
+PRD0030,Saxena-Dugar Lipstick,Beauty,Lipstick,Chowdhury-Mangal,32655.36,0,4.0,1289,979,SEL058
+PRD0031,"Mishra, Chopra and Sur Oil",Grocery,Oil,"Maharaj, Balay and Anne",19929.09,10,3.9,2191,583,SEL116
+PRD0032,"Krishnan, Raghavan and Sheth Action Figure",Toys,Action Figure,"Narayan, Dani and Taneja",20031.55,30,4.1,3687,0,SEL034
+PRD0033,Ramakrishnan-Peri Yoga Mat,Sports,Yoga Mat,Bawa and Sons,30065.84,10,4.6,2535,43,SEL091
+PRD0034,Singh-Kashyap Lipstick,Beauty,Lipstick,Saran-Wason,55887.18,30,3.1,658,716,SEL137
+PRD0035,Sehgal LLC Oil,Grocery,Oil,Dalal-Hayre,62321.81,20,4.2,2001,894,SEL103
+PRD0036,Magar LLC Yoga Mat,Sports,Yoga Mat,Kaur-Swamy,9552.57,40,5.0,2047,530,SEL095
+PRD0037,Mahal PLC Badminton,Sports,Badminton,"Patel, Choudhry and Bawa",32918.55,15,4.9,1900,438,SEL010
+PRD0038,"Sani, Tella and Chana Doll",Toys,Doll,"Ahuja, Chada and Tella",64553.43,50,3.5,4804,75,SEL034
+PRD0039,Morar Ltd Shampoo,Beauty,Shampoo,Sidhu-Wason,45377.46,40,4.9,1436,138,SEL192
+PRD0040,"Nagarajan, Banerjee and Murty Earphones",Electronics,Earphones,Lala-Palla,14920.32,50,3.5,1368,984,SEL106
+PRD0041,Kamdar-Krishna Mixer,Home & Kitchen,Mixer,Mishra Ltd,30737.34,30,2.7,3726,971,SEL146
+PRD0042,"Nori, Nigam and Pal Board Game",Toys,Board Game,Saran Ltd,15172.05,25,3.4,4843,930,SEL154
+PRD0043,"Aurora, Keer and Chaudhuri Pressure Cooker",Home & Kitchen,Pressure Cooker,Dara-Basak,17266.13,50,4.3,3285,569,SEL132
+PRD0044,"Varghese, Morar and Shere Masala",Grocery,Masala,"Dhar, Issac and Bahri",36102.64,10,3.4,3563,12,SEL078
+PRD0045,Mistry and Sons Jeans,Fashion,Jeans,"Nair, Zacharia and Lala",20421.82,10,2.6,2070,916,SEL156
+PRD0046,Vora LLC Fiction,Books,Fiction,"Dugar, Nayak and Verma",26223.28,50,4.4,4921,86,SEL040
+PRD0047,Sood and Sons Bedsheet,Home & Kitchen,Bedsheet,Sangha PLC,836.99,0,4.7,2382,304,SEL013
+PRD0048,Doctor PLC Masala,Grocery,Masala,"Bumb, Ramaswamy and Shenoy",11786.19,5,4.9,2508,758,SEL167
+PRD0049,Singhal-Cheema Fiction,Books,Fiction,"Ravel, Chad and Shere",69663.68,5,3.0,978,17,SEL053
+PRD0050,Sura-Chadha Oil,Grocery,Oil,"Sidhu, Manne and Agrawal",12226.84,50,3.7,281,605,SEL157
+PRD0051,"Iyengar, Peri and Chacko LEGO",Toys,LEGO,"Vala, Kata and Nagi",66634.22,30,3.2,1119,303,SEL003
+PRD0052,Reddy Group Lipstick,Beauty,Lipstick,"Issac, Bhat and Dugar",4496.12,10,3.1,1911,31,SEL146
+PRD0053,"Joshi, Jayaraman and Nigam Masala",Grocery,Masala,Swamy and Sons,34277.17,5,4.1,2148,572,SEL159
+PRD0054,Bahri-Kannan Board Game,Toys,Board Game,"Ray, Randhawa and Walia",73234.13,50,4.8,288,664,SEL095
+PRD0055,Saha-Kalla Board Game,Toys,Board Game,Tak LLC,70353.77,5,3.7,2995,251,SEL161
+PRD0056,Manne PLC Smartwatch,Electronics,Smartwatch,Yadav Inc,49274.18,30,2.8,4320,440,SEL147
+PRD0057,"Naidu, Ray and Sinha Sunscreen",Beauty,Sunscreen,Pai LLC,12277.17,20,4.6,65,317,SEL064
+PRD0058,"Soni, Kalita and Chakrabarti Badminton",Sports,Badminton,Patla Group,20647.32,10,3.3,604,672,SEL050
+PRD0059,Om-Rana Tea,Grocery,Tea,Kala-Oza,25294.1,30,2.7,434,508,SEL126
+PRD0060,"Panchal, Mani and Sarkar Dal",Grocery,Dal,Sharaf-Bava,51406.97,5,3.7,2874,63,SEL058
+PRD0061,Lad-Bansal Action Figure,Toys,Action Figure,"Shenoy, Jha and Gade",60617.67,10,4.9,1211,711,SEL086
+PRD0062,"Walia, Banik and Mani Watch",Fashion,Watch,Aggarwal Inc,15902.16,40,3.0,3775,41,SEL049
+PRD0063,Loyal LLC Yoga Mat,Sports,Yoga Mat,Chakraborty PLC,64838.69,20,3.2,3684,293,SEL141
+PRD0064,Chhabra-Padmanabhan Earphones,Electronics,Earphones,"Wagle, Yohannan and Nadig",39495.91,0,3.6,4388,425,SEL033
+PRD0065,Dora-Panchal Textbook,Books,Textbook,Kannan and Sons,78916.28,0,4.2,3863,423,SEL083
+PRD0066,Goel-Roy Watch,Fashion,Watch,Subramaniam and Sons,5749.83,40,4.1,4575,873,SEL200
+PRD0067,"Anand, Bhagat and Arora Moisturizer",Beauty,Moisturizer,Khare-Master,38691.53,15,4.9,1373,884,SEL138
+PRD0068,Murthy-Kothari Moisturizer,Beauty,Moisturizer,"Tank, Dugal and Bajwa",21475.36,30,3.0,2105,37,SEL155
+PRD0069,Maharaj Group Watch,Fashion,Watch,"Bains, Pall and Salvi",63593.13,50,2.5,2847,557,SEL190
+PRD0070,"Ahluwalia, Wagle and Bava T-Shirt",Fashion,T-Shirt,Taneja Ltd,25710.83,40,3.2,3224,685,SEL094
+PRD0071,"Yadav, Dhingra and Ramachandran Fiction",Books,Fiction,"Kala, Bir and Kurian",73749.95,0,4.1,3883,2,SEL013
+PRD0072,"Singhal, Sathe and Borde Cricket Bat",Sports,Cricket Bat,Behl-Deshpande,47047.18,0,4.3,2622,914,SEL080
+PRD0073,"Bhandari, Dugar and Dewan Watch",Fashion,Watch,Tara-Chowdhury,22139.5,0,5.0,2046,618,SEL183
+PRD0074,Bala Group Pressure Cooker,Home & Kitchen,Pressure Cooker,Savant-Choudhary,6560.72,50,2.6,1722,602,SEL098
+PRD0075,"Mand, Chowdhury and Rege Board Game",Toys,Board Game,Aurora-Deshmukh,61386.05,0,3.1,3055,937,SEL140
+PRD0076,Sodhi-Sagar LEGO,Toys,LEGO,Sachdev-Magar,50285.95,0,4.2,4385,553,SEL004
+PRD0077,Pandey-Chauhan Bedsheet,Home & Kitchen,Bedsheet,Bhatti Group,25769.59,25,2.7,3140,289,SEL178
+PRD0078,Maharaj-Luthra Board Game,Toys,Board Game,"Ravel, Mittal and Mander",69362.78,15,3.4,3430,135,SEL052
+PRD0079,Wason-Sarma Laptop,Electronics,Laptop,"Kashyap, Guha and Raghavan",48411.87,40,3.2,179,515,SEL130
+PRD0080,"Chand, Krishna and Bawa Smartwatch",Electronics,Smartwatch,Chaudry PLC,39016.19,50,4.3,4967,571,SEL124
+PRD0081,"Dora, Sur and Pandit Tablet",Electronics,Tablet,Kant-Chandra,13496.6,5,4.0,769,553,SEL186
+PRD0082,Kohli-Ghose Yoga Mat,Sports,Yoga Mat,"Nagarajan, Devan and Warrior",6354.92,15,4.2,1199,830,SEL100
+PRD0083,Oommen LLC Action Figure,Toys,Action Figure,Andra Group,7745.07,50,3.2,2783,574,SEL013
+PRD0084,Mutti-Kannan Lipstick,Beauty,Lipstick,Chada LLC,64037.38,15,3.0,987,114,SEL153
+PRD0085,Aggarwal PLC Action Figure,Toys,Action Figure,Cherian-Parmer,23656.73,40,4.5,1311,150,SEL005
+PRD0086,Sabharwal Ltd Lipstick,Beauty,Lipstick,Ramakrishnan-Bandi,48069.54,40,4.2,3909,488,SEL070
+PRD0087,"Raman, Raghavan and Dutt Shampoo",Beauty,Shampoo,De Group,23736.46,0,4.7,1137,940,SEL164
+PRD0088,"Arora, Vohra and Chandra Fiction",Books,Fiction,"Mital, Malhotra and Chada",35531.25,5,3.2,611,842,SEL159
+PRD0089,"Gara, Dalal and Ramanathan Lipstick",Beauty,Lipstick,Yohannan-Madan,46147.5,30,4.7,3990,823,SEL100
+PRD0090,"Pall, Chandran and Rattan Board Game",Toys,Board Game,Dash-Varma,69828.73,10,3.1,4730,384,SEL001
+PRD0091,Doctor-Divan Lipstick,Beauty,Lipstick,"Murthy, Sachdeva and Oak",78099.03,10,4.4,613,757,SEL137
+PRD0092,Pall-Balakrishnan Cricket Bat,Sports,Cricket Bat,Raghavan-Hayre,10422.7,40,4.5,3683,6,SEL056
+PRD0093,Deol Group Doll,Toys,Doll,Subramaniam LLC,3921.07,0,3.5,350,405,SEL102
+PRD0094,Sant and Sons Comics,Books,Comics,Sachar-Goda,66347.34,25,2.6,4359,908,SEL165
+PRD0095,Minhas Inc Shoes,Fashion,Shoes,Tripathi-Soni,21315.25,0,4.1,4824,123,SEL003
+PRD0096,Talwar PLC Fiction,Books,Fiction,Pall LLC,47409.6,10,2.6,1953,654,SEL008
+PRD0097,Pai Group LED Light,Home & Kitchen,LED Light,Sahni-Mallick,10863.69,20,3.3,1648,785,SEL118
+PRD0098,"Dutta, Koshy and Devi Sunscreen",Beauty,Sunscreen,Singhal Inc,55704.3,25,3.1,928,588,SEL167
+PRD0099,"Gulati, Bhasin and Kar Bedsheet",Home & Kitchen,Bedsheet,"Kothari, Chokshi and Gill",3380.72,50,3.6,1099,883,SEL119
+PRD0100,"Halder, Dewan and Talwar Sunscreen",Beauty,Sunscreen,Narasimhan PLC,74758.86,25,3.1,2249,645,SEL152
+PRD0101,Talwar-Hans Mixer,Home & Kitchen,Mixer,"Sha, Wali and Vora",25555.87,50,4.9,2316,710,SEL074
+PRD0102,Pandit-Gade Lipstick,Beauty,Lipstick,"Goel, Rout and Agate",41127.89,5,3.9,4606,123,SEL184
+PRD0103,Raval-Sant LEGO,Toys,LEGO,"Dey, Chana and Yogi",50358.58,50,3.0,2328,780,SEL085
+PRD0104,Lal LLC Doll,Toys,Doll,Sodhi-Chopra,12594.18,10,4.0,3049,152,SEL032
+PRD0105,"Mody, Konda and Subramanian Tea",Grocery,Tea,"Kamdar, Bajwa and Bail",39628.57,25,4.2,3122,12,SEL061
+PRD0106,"Karnik, Patel and Thaman Action Figure",Toys,Action Figure,Hans-Goyal,64878.26,10,3.3,3475,31,SEL115
+PRD0107,"Borde, Narula and Saran Earphones",Electronics,Earphones,Thaker-Mann,35940.33,10,4.4,3336,16,SEL034
+PRD0108,"Narasimhan, Bedi and Parmar Textbook",Books,Textbook,"Dar, Sem and Datta",63992.17,5,3.4,3001,27,SEL019
+PRD0109,"Purohit, Bakshi and Kannan Lipstick",Beauty,Lipstick,Gala-Gulati,54487.58,5,3.6,748,433,SEL128
+PRD0110,Shere Inc Kurti,Fashion,Kurti,Arora-Pai,33888.58,25,3.8,4696,63,SEL096
+PRD0111,Kulkarni-Pant Pressure Cooker,Home & Kitchen,Pressure Cooker,"Tak, Mishra and Khalsa",20490.02,5,3.0,4849,334,SEL079
+PRD0112,Kumar Group Tea,Grocery,Tea,Sane-Luthra,21264.6,30,4.9,3003,218,SEL025
+PRD0113,Magar and Sons Sunscreen,Beauty,Sunscreen,"Jani, Saran and Hans",46702.79,25,4.3,1018,586,SEL189
+PRD0114,"Murty, Suresh and Jayaraman Watch",Fashion,Watch,"Swamy, Dash and Guha",50996.14,50,3.5,2470,867,SEL184
+PRD0115,Zacharia-Tiwari Board Game,Toys,Board Game,Raman Group,34403.33,30,4.7,4546,240,SEL050
+PRD0116,Bahl and Sons Sunscreen,Beauty,Sunscreen,Sama and Sons,21144.26,50,3.7,4490,977,SEL002
+PRD0117,Choudhry Group Sunscreen,Beauty,Sunscreen,"Butala, Jhaveri and Dani",3981.62,10,4.9,3927,867,SEL122
+PRD0118,"Tank, Maharaj and Sabharwal Watch",Fashion,Watch,Lall-Mitra,21265.47,0,4.5,831,577,SEL048
+PRD0119,"More, Kalla and Kara Mixer",Home & Kitchen,Mixer,"Boase, Sehgal and Sood",48297.43,30,3.7,1787,194,SEL037
+PRD0120,"Patil, Lall and Savant Dal",Grocery,Dal,"Khalsa, Desai and Suri",62901.41,10,3.0,3326,296,SEL067
+PRD0121,"Minhas, Dalal and Raj Laptop",Electronics,Laptop,"Bhardwaj, Parikh and Garg",69492.75,10,3.3,1352,835,SEL102
+PRD0122,Bumb LLC Masala,Grocery,Masala,Kala Group,49404.06,10,3.1,3608,484,SEL061
+PRD0123,Jaggi Group Pressure Cooker,Home & Kitchen,Pressure Cooker,Karnik-Sethi,57688.36,25,4.1,392,139,SEL062
+PRD0124,Saxena-Din Mixer,Home & Kitchen,Mixer,Date and Sons,46039.77,20,4.2,11,66,SEL109
+PRD0125,Mitra PLC Self-Help,Books,Self-Help,Bora PLC,60903.57,10,3.8,2413,141,SEL055
+PRD0126,Mangal Inc Badminton,Sports,Badminton,Mall Inc,52804.44,50,2.9,4991,9,SEL173
+PRD0127,"Srivastava, Dora and Choudhury Oil",Grocery,Oil,Kothari-Agate,65599.27,5,3.3,2211,706,SEL088
+PRD0128,Dass Group Bedsheet,Home & Kitchen,Bedsheet,"Kari, Talwar and Saini",4653.44,40,3.3,4666,706,SEL156
+PRD0129,"Parmer, Divan and Shah Jeans",Fashion,Jeans,"Shan, Joshi and Bahri",44111.58,15,2.8,40,733,SEL101
+PRD0130,Aurora-Pandya Yoga Mat,Sports,Yoga Mat,"Dash, Wagle and Mani",17114.85,10,3.0,3553,640,SEL186
+PRD0131,"Gupta, Pandya and Chandra Pressure Cooker",Home & Kitchen,Pressure Cooker,Kulkarni Ltd,39446.41,40,3.7,1679,961,SEL020
+PRD0132,Vasa-Kumar Action Figure,Toys,Action Figure,"Kunda, Khalsa and Karnik",76397.58,30,4.8,3926,28,SEL114
+PRD0133,Gera-Sampath Laptop,Electronics,Laptop,Chana Group,44703.01,0,3.1,293,343,SEL158
+PRD0134,Arya Group Lipstick,Beauty,Lipstick,"Garde, Memon and Gala",49931.2,20,2.8,2366,86,SEL187
+PRD0135,"Sunder, Kothari and Mitter Smartwatch",Electronics,Smartwatch,Nadig-Garde,63297.28,20,4.3,1093,919,SEL127
+PRD0136,"Gaba, Sha and Manne Cricket Bat",Sports,Cricket Bat,"Taneja, Choudhury and Parekh",54048.03,30,3.7,3015,518,SEL043
+PRD0137,Ahuja-Nori Doll,Toys,Doll,Bhalla LLC,33648.83,25,3.9,29,862,SEL111
+PRD0138,Rai Inc Mixer,Home & Kitchen,Mixer,Lalla PLC,67429.43,15,4.3,1573,824,SEL131
+PRD0139,Khare Inc Sunscreen,Beauty,Sunscreen,Dar-Sekhon,70648.9,20,4.9,591,289,SEL147
+PRD0140,"Parsa, Kunda and Chad Oil",Grocery,Oil,"Bassi, Sha and Dar",25239.15,40,4.1,1721,106,SEL134
+PRD0141,Upadhyay-Pandey Comics,Books,Comics,Sehgal Group,59897.5,50,4.3,4910,808,SEL020
+PRD0142,Khosla-Barad Badminton,Sports,Badminton,Grewal-Chatterjee,2798.82,25,4.5,126,887,SEL073
+PRD0143,"Chana, Kale and Pillay Self-Help",Books,Self-Help,Chatterjee-Narasimhan,65892.51,30,3.2,1054,134,SEL191
+PRD0144,Mallick LLC Textbook,Books,Textbook,Bandi-Balan,71460.4,5,2.8,1295,735,SEL141
+PRD0145,Amble LLC T-Shirt,Fashion,T-Shirt,Choudhry-Tailor,26397.07,20,3.9,2790,233,SEL065
+PRD0146,"Oak, Hora and Anand Mobile",Electronics,Mobile,Patla-Nayar,55999.27,10,4.2,3589,759,SEL179
+PRD0147,Kale Ltd Pressure Cooker,Home & Kitchen,Pressure Cooker,"Dixit, Agate and Wali",72774.04,50,4.3,2501,961,SEL128
+PRD0148,Bhargava-Mani Yoga Mat,Sports,Yoga Mat,"Issac, Oza and Wali",66145.54,10,3.4,3787,764,SEL130
+PRD0149,Virk-Date Rice,Grocery,Rice,"Banik, Patla and Modi",67787.22,50,3.8,1064,209,SEL116
+PRD0150,"Chaudhary, Saini and Naik Rice",Grocery,Rice,Thakur LLC,26419.73,50,4.9,2386,69,SEL100
+PRD0151,Sarna-Chaudhry Smartwatch,Electronics,Smartwatch,"Chopra, Sawhney and Hayer",55817.4,15,4.2,2102,589,SEL165
+PRD0152,"Kala, Balay and Nagarajan Sunscreen",Beauty,Sunscreen,Bir Group,24510.49,50,4.9,2230,400,SEL007
+PRD0153,"Pal, Kapur and Chakraborty Sunscreen",Beauty,Sunscreen,Mani Group,54951.55,20,3.9,3178,197,SEL174
+PRD0154,Om Inc Fiction,Books,Fiction,Badami Inc,68512.47,40,2.9,3245,823,SEL031
+PRD0155,Kota and Sons Tablet,Electronics,Tablet,"Rao, Raju and Prasad",4795.35,10,3.5,3157,410,SEL034
+PRD0156,"Gulati, Devan and Bhatt Mobile",Electronics,Mobile,Mittal-Banik,33524.64,25,4.8,3693,700,SEL130
+PRD0157,"Puri, Khalsa and Bhandari LEGO",Toys,LEGO,Wable Inc,26476.99,50,4.9,2651,335,SEL193
+PRD0158,"Modi, Murthy and Sarin Sunscreen",Beauty,Sunscreen,Savant LLC,28197.6,10,3.1,3540,281,SEL002
+PRD0159,Sem PLC Mobile,Electronics,Mobile,Savant-Yogi,30943.87,40,3.3,3409,827,SEL136
+PRD0160,"Mander, Kapoor and Kanda LED Light",Home & Kitchen,LED Light,Sanghvi-Naik,54679.3,25,2.7,3144,361,SEL066
+PRD0161,Mishra-Pai Moisturizer,Beauty,Moisturizer,Varma Group,12354.8,20,4.7,2140,70,SEL198
+PRD0162,"Pau, Dhawan and Bajaj Oil",Grocery,Oil,Balakrishnan LLC,444.82,15,3.0,3340,934,SEL137
+PRD0163,Ramachandran Ltd Action Figure,Toys,Action Figure,Yadav-Rattan,41029.07,15,4.6,3859,888,SEL011
+PRD0164,Virk-Sarma Shoes,Fashion,Shoes,Rama-Khosla,1639.39,15,3.5,383,903,SEL160
+PRD0165,"Raman, Sangha and Jhaveri Dumbbells",Sports,Dumbbells,More-Aggarwal,12352.94,15,3.8,3378,62,SEL045
+PRD0166,"Kumer, Anne and Nayak Earphones",Electronics,Earphones,Ramachandran Ltd,58519.19,50,4.0,4390,228,SEL008
+PRD0167,"Barman, Chadha and Handa Cricket Bat",Sports,Cricket Bat,Dhawan-Taneja,17046.66,0,4.0,3559,653,SEL017
+PRD0168,Agarwal-Munshi Tea,Grocery,Tea,"Shukla, Sathe and Khanna",38809.04,40,2.8,2244,344,SEL040
+PRD0169,Puri-Oza Cricket Bat,Sports,Cricket Bat,Sridhar PLC,16819.11,30,4.0,4324,13,SEL077
+PRD0170,Krishna-Varty Moisturizer,Beauty,Moisturizer,Joshi-Chokshi,37149.89,25,4.4,3103,769,SEL177
+PRD0171,Purohit-Wali Oil,Grocery,Oil,"Dixit, Amble and Sethi",79029.18,0,3.9,4091,655,SEL164
+PRD0172,Kulkarni Group Textbook,Books,Textbook,Koshy-Hegde,54162.61,25,4.0,4503,46,SEL036
+PRD0173,Kurian-Boase Action Figure,Toys,Action Figure,Wason PLC,13528.43,20,3.2,372,820,SEL060
+PRD0174,"Korpal, Shroff and Magar Kurti",Fashion,Kurti,Patla Ltd,72912.24,10,3.3,2306,625,SEL005
+PRD0175,Krishnan-Rastogi Dal,Grocery,Dal,Loyal and Sons,67558.5,10,2.6,799,577,SEL191
+PRD0176,Nagi Group Masala,Grocery,Masala,Dutta Group,37719.64,50,3.6,2980,624,SEL094
+PRD0177,Ben-Kata Kurti,Fashion,Kurti,Nath PLC,5382.16,30,4.3,4291,738,SEL041
+PRD0178,Patla-Sahni Fiction,Books,Fiction,Som-Sarin,40093.78,10,4.6,2631,805,SEL165
+PRD0179,Wagle and Sons LEGO,Toys,LEGO,Atwal-Dash,8526.39,30,2.9,1810,172,SEL110
+PRD0180,"Ratta, Deshpande and Goda Earphones",Electronics,Earphones,"Vala, Gaba and Rama",57819.6,30,4.3,2303,169,SEL118
+PRD0181,"Ramachandran, Varma and Ratti Doll",Toys,Doll,Agate Inc,23438.22,50,3.0,3642,197,SEL180
+PRD0182,Yohannan-Nanda Smartwatch,Electronics,Smartwatch,Dutta Ltd,32258.27,15,4.1,718,380,SEL024
+PRD0183,Magar-Manda Shoes,Fashion,Shoes,Shukla-Murty,43293.55,10,3.2,1211,907,SEL098
+PRD0184,"Gera, Bora and Karan Shampoo",Beauty,Shampoo,"Warrior, Rajagopal and Ahuja",45071.96,30,4.1,4873,856,SEL006
+PRD0185,Dhingra-Mishra Board Game,Toys,Board Game,"Chandran, Chaudhry and Golla",18883.55,40,4.3,1812,669,SEL122
+PRD0186,"Sami, Majumdar and Sura Shoes",Fashion,Shoes,Balay-Balay,49992.67,0,5.0,1412,233,SEL121
+PRD0187,Dugal-Bhatt Mobile,Electronics,Mobile,Shan LLC,56688.93,30,3.3,2244,893,SEL183
+PRD0188,"Balay, Kapoor and Yadav Rice",Grocery,Rice,"Gulati, Radhakrishnan and Pillai",53704.35,50,3.2,3827,457,SEL149
+PRD0189,Raval and Sons Shampoo,Beauty,Shampoo,Parsa-Bobal,5694.58,40,3.6,2581,321,SEL052
+PRD0190,Pandit-Kapur Watch,Fashion,Watch,Luthra and Sons,43285.91,0,4.6,1731,473,SEL132
+PRD0191,Oommen-Dyal Kurti,Fashion,Kurti,Saran Inc,46675.68,25,3.7,485,571,SEL149
+PRD0192,Golla-Rajan Dumbbells,Sports,Dumbbells,"Chandran, Rao and Randhawa",40818.72,30,2.9,4515,215,SEL130
+PRD0193,Narula-Bakshi Badminton,Sports,Badminton,Yadav Ltd,32911.44,50,2.6,1284,982,SEL005
+PRD0194,"Kadakia, Puri and Munshi Masala",Grocery,Masala,Sarna-Joshi,6387.92,15,4.0,901,184,SEL030
+PRD0195,Deshmukh and Sons Earphones,Electronics,Earphones,"Varma, Palan and Tank",59071.31,50,4.7,4489,102,SEL040
+PRD0196,Singhal-Rattan Action Figure,Toys,Action Figure,Chanda-Balay,40883.95,10,4.5,227,664,SEL126
+PRD0197,Nazareth-Datta Smartwatch,Electronics,Smartwatch,Doctor PLC,31072.52,0,4.7,395,465,SEL151
+PRD0198,Thakkar PLC Pressure Cooker,Home & Kitchen,Pressure Cooker,Patil-Kapur,38509.76,10,4.0,1189,396,SEL142
+PRD0199,Karan-Kapur Self-Help,Books,Self-Help,"Chhabra, Keer and Karpe",22028.33,50,4.2,3587,677,SEL078
+PRD0200,Pau LLC Rice,Grocery,Rice,"Dora, Bandi and Dhaliwal",19446.7,25,2.6,4030,335,SEL118
+PRD0201,Konda and Sons Board Game,Toys,Board Game,Sharaf-Sekhon,79723.67,15,3.3,3664,13,SEL125
+PRD0202,Kashyap Inc Dal,Grocery,Dal,Oak-Pai,59191.82,10,4.6,1796,102,SEL083
+PRD0203,Roy-Dar Shampoo,Beauty,Shampoo,"Mohanty, Palla and Mistry",50588.44,25,3.6,278,366,SEL033
+PRD0204,"Sastry, Dave and Chakraborty Watch",Fashion,Watch,Patil Group,38301.37,15,3.8,2305,269,SEL012
+PRD0205,"Ratta, Sanghvi and Wali Dumbbells",Sports,Dumbbells,Nadkarni LLC,78549.35,50,3.0,635,318,SEL017
+PRD0206,Mangal Inc Badminton,Sports,Badminton,"Deshpande, Chaudhuri and Pall",76080.36,5,4.4,1868,663,SEL083
+PRD0207,"Mital, Ben and Dugar Laptop",Electronics,Laptop,Hayer Ltd,32077.68,40,2.8,3233,838,SEL199
+PRD0208,Subramanian-Shanker T-Shirt,Fashion,T-Shirt,Dhingra PLC,46643.21,40,4.7,3699,632,SEL115
+PRD0209,"Kakar, Vasa and Seth Laptop",Electronics,Laptop,"Loke, Konda and Manda",18608.06,20,4.5,2197,365,SEL110
+PRD0210,"Suri, Contractor and Gade Dumbbells",Sports,Dumbbells,Sathe-Bir,32990.5,40,3.9,2413,25,SEL195
+PRD0211,Nazareth PLC Comics,Books,Comics,"Kala, Dara and Chad",58064.06,30,4.9,187,67,SEL111
+PRD0212,Dewan PLC Self-Help,Books,Self-Help,"Dixit, Mittal and Rastogi",49071.82,40,3.0,4094,518,SEL170
+PRD0213,Bhatt LLC Fiction,Books,Fiction,Kata and Sons,28437.63,40,3.4,1322,615,SEL181
+PRD0214,Minhas and Sons Bedsheet,Home & Kitchen,Bedsheet,Chada Group,18720.04,50,3.5,4593,792,SEL191
+PRD0215,Devi LLC Fiction,Books,Fiction,Wason Inc,10979.58,5,3.3,3027,943,SEL181
+PRD0216,Narain LLC Yoga Mat,Sports,Yoga Mat,Buch Ltd,79674.59,15,3.1,2468,92,SEL097
+PRD0217,"Varghese, Shah and Morar Moisturizer",Beauty,Moisturizer,Sangha-Kant,44021.72,20,3.8,4786,443,SEL100
+PRD0218,"Bhatt, Jhaveri and Bakshi Smartwatch",Electronics,Smartwatch,Ray and Sons,72835.04,20,3.2,3158,866,SEL121
+PRD0219,"Balakrishnan, Sama and Bansal Badminton",Sports,Badminton,"Manne, Kulkarni and Ganguly",14176.04,5,3.4,4698,365,SEL140
+PRD0220,Joshi-Das Cricket Bat,Sports,Cricket Bat,"Arora, Chana and Sabharwal",73730.17,40,3.2,951,434,SEL017
+PRD0221,Nagarajan-Bhatti Rice,Grocery,Rice,Balasubramanian-Lata,26966.78,10,4.7,640,525,SEL171
+PRD0222,"Bedi, Venkatesh and Wagle Shoes",Fashion,Shoes,Malhotra-Patel,45185.3,5,4.1,2358,912,SEL026
+PRD0223,"Bhavsar, Reddy and Sachdeva Textbook",Books,Textbook,Dave-Mitter,67030.28,40,3.5,489,722,SEL152
+PRD0224,Gala-Saxena Yoga Mat,Sports,Yoga Mat,"Nagy, Virk and Palla",55534.89,40,3.2,1062,605,SEL185
+PRD0225,"Dey, Batra and Kannan Bedsheet",Home & Kitchen,Bedsheet,Mishra LLC,23124.81,15,4.9,244,831,SEL039
+PRD0226,"Singhal, Gala and Pradhan LEGO",Toys,LEGO,Dasgupta-Yogi,77541.09,0,3.9,4803,393,SEL182
+PRD0227,"Bhasin, Iyengar and Kapadia Mixer",Home & Kitchen,Mixer,"Kala, Kala and Shankar",44648.53,15,3.5,3716,470,SEL032
+PRD0228,Vyas LLC Doll,Toys,Doll,Mukhopadhyay Ltd,33138.34,5,2.5,2577,764,SEL101
+PRD0229,Chawla Ltd Textbook,Books,Textbook,Sidhu-Vohra,13952.99,0,2.8,1058,136,SEL175
+PRD0230,"Shankar, Mand and Nair Textbook",Books,Textbook,"Gokhale, Murty and Srivastava",49116.8,50,2.6,1720,742,SEL113
+PRD0231,Aurora-Shanker Board Game,Toys,Board Game,Narula-Mangat,71293.71,40,3.4,142,96,SEL122
+PRD0232,Dhillon Group Tea,Grocery,Tea,Andra Group,5819.74,10,4.1,2271,833,SEL104
+PRD0233,Wable-Rout Kurti,Fashion,Kurti,Gulati and Sons,23536.57,10,3.0,2880,64,SEL118
+PRD0234,"Krishnan, Nayar and Dugar Badminton",Sports,Badminton,Naidu PLC,72641.85,30,4.7,1157,889,SEL097
+PRD0235,Kannan LLC Mobile,Electronics,Mobile,Oommen-Gara,43989.36,15,3.7,1060,388,SEL056
+PRD0236,Uppal Ltd Watch,Fashion,Watch,"Chaudhuri, Kaul and Hora",46785.29,25,4.3,3134,915,SEL157
+PRD0237,Ahluwalia-Seth Shampoo,Beauty,Shampoo,"Purohit, Mutti and Borra",46632.69,10,4.1,3991,701,SEL113
+PRD0238,"Gopal, Parsa and Rai LEGO",Toys,LEGO,"Chandra, Edwin and Rajagopal",64960.83,20,4.0,225,221,SEL141
+PRD0239,"Tandon, Thaman and Batra Moisturizer",Beauty,Moisturizer,Tata LLC,77825.58,25,3.4,1716,851,SEL070
+PRD0240,Nanda Group Dumbbells,Sports,Dumbbells,Ghose Ltd,70006.64,30,3.7,1489,546,SEL138
+PRD0241,"Kara, Devi and Nayak Fiction",Books,Fiction,Prasad Ltd,24090.17,15,4.9,551,258,SEL093
+PRD0242,Ahluwalia-Sankaran Badminton,Sports,Badminton,Iyengar-Kapoor,58510.65,5,3.4,3960,299,SEL149
+PRD0243,"Tella, Prasad and Narayanan Self-Help",Books,Self-Help,"Rajagopal, Hayer and Pandit",28639.97,5,3.2,4829,468,SEL135
+PRD0244,"Bawa, Vora and Korpal Tea",Grocery,Tea,"Mallick, Basu and Sangha",65920.76,15,2.7,76,296,SEL004
+PRD0245,Tella-Prakash Shampoo,Beauty,Shampoo,"Sule, Arora and Nori",19546.62,40,4.1,3490,97,SEL132
+PRD0246,Ratta-Kashyap Fiction,Books,Fiction,Sinha and Sons,55884.29,25,3.8,499,102,SEL186
+PRD0247,Chacko-Tandon Dal,Grocery,Dal,Chad Inc,6907.64,15,4.0,2668,94,SEL017
+PRD0248,Prakash and Sons Yoga Mat,Sports,Yoga Mat,Sha Ltd,34679.08,50,3.5,861,967,SEL004
+PRD0249,Seth-Kapadia Tea,Grocery,Tea,Keer Ltd,6255.42,40,2.7,3330,646,SEL135
+PRD0250,Jain-Varma Sunscreen,Beauty,Sunscreen,Thaker Ltd,24130.32,25,4.4,443,416,SEL165
+PRD0251,Bhatti-Dayal Laptop,Electronics,Laptop,"Kara, Deep and Sibal",69104.8,15,3.1,600,381,SEL068
+PRD0252,"Manne, Mand and Chahal Pressure Cooker",Home & Kitchen,Pressure Cooker,Mani Group,1028.38,0,2.6,1609,55,SEL048
+PRD0253,Dave Group LEGO,Toys,LEGO,"Vyas, Thaker and Baria",78145.7,25,4.8,164,691,SEL084
+PRD0254,Iyengar Group Pressure Cooker,Home & Kitchen,Pressure Cooker,"Trivedi, Agrawal and Lall",23100.12,5,2.7,1266,27,SEL104
+PRD0255,Khosla Ltd Doll,Toys,Doll,Dhaliwal Group,2981.62,25,2.7,2629,756,SEL151
+PRD0256,Jhaveri-Brar Mixer,Home & Kitchen,Mixer,"Gour, Wali and Rattan",7681.11,30,3.6,2056,210,SEL190
+PRD0257,Anand-Talwar Pressure Cooker,Home & Kitchen,Pressure Cooker,Khare and Sons,10897.89,10,3.2,268,327,SEL060
+PRD0258,"Anne, Devi and Ghosh Pressure Cooker",Home & Kitchen,Pressure Cooker,Ben-Choudhury,53203.9,0,3.4,1155,670,SEL008
+PRD0259,Shankar Group Watch,Fashion,Watch,Rege-More,60612.79,5,2.8,1711,262,SEL137
+PRD0260,"Gala, Kota and Basak Yoga Mat",Sports,Yoga Mat,Lanka-Chhabra,17928.99,5,3.0,1437,372,SEL047
+PRD0261,Andra-Hayer Action Figure,Toys,Action Figure,Nadkarni Inc,63738.74,10,3.1,4906,260,SEL086
+PRD0262,Chaudhari-Sant LEGO,Toys,LEGO,"Sanghvi, Dyal and Pal",26693.86,15,3.3,4110,409,SEL077
+PRD0263,"Savant, Dugal and Kata Badminton",Sports,Badminton,"Mohan, Oak and Parmer",34284.33,0,2.9,4791,524,SEL111
+PRD0264,Ramachandran-Date Board Game,Toys,Board Game,Solanki PLC,21446.43,0,4.3,4788,973,SEL092
+PRD0265,"Prasad, Varughese and Sami Comics",Books,Comics,Sagar Inc,60040.82,40,4.1,1996,283,SEL170
+PRD0266,Walla-Bhasin Lipstick,Beauty,Lipstick,Dass-Dey,49765.35,15,3.4,764,342,SEL177
+PRD0267,"Anne, Tata and Luthra Bedsheet",Home & Kitchen,Bedsheet,Deo-Koshy,78547.82,30,3.4,2733,576,SEL017
+PRD0268,"Krishna, Gade and Prabhu Badminton",Sports,Badminton,Jain-Bhavsar,61134.25,30,4.9,3038,806,SEL064
+PRD0269,Sant-Brar Tablet,Electronics,Tablet,Buch Group,73293.98,30,3.3,2193,484,SEL095
+PRD0270,Sem Ltd Self-Help,Books,Self-Help,Varma-Pai,32375.37,25,2.9,3627,796,SEL070
+PRD0271,"Khurana, Boase and Sathe Doll",Toys,Doll,Sandhu Group,57588.35,15,3.3,4607,594,SEL179
+PRD0272,"Bhatti, Devan and Thaman Board Game",Toys,Board Game,Sarma LLC,60963.05,50,4.7,2056,157,SEL075
+PRD0273,"Munshi, Narang and Thaker Comics",Books,Comics,Borah-Hayer,39533.64,10,3.2,2785,486,SEL021
+PRD0274,"Sarkar, Bhargava and Date Bedsheet",Home & Kitchen,Bedsheet,"Rama, Lala and Konda",69079.73,30,4.9,4491,953,SEL058
+PRD0275,"More, Talwar and Sama Shampoo",Beauty,Shampoo,Srinivasan PLC,17039.57,20,3.5,2701,512,SEL192
+PRD0276,Nanda-Banerjee Board Game,Toys,Board Game,Badal-Balasubramanian,53517.03,0,3.5,839,402,SEL188
+PRD0277,Bhat-Vig LED Light,Home & Kitchen,LED Light,Sundaram Group,45262.27,15,4.0,4485,806,SEL169
+PRD0278,Andra Inc Shoes,Fashion,Shoes,Sane-Chopra,7739.71,15,4.2,4106,85,SEL026
+PRD0279,Nazareth Group Board Game,Toys,Board Game,Doshi-Ahuja,55586.32,5,2.6,199,509,SEL054
+PRD0280,Kalita-Lanka Dal,Grocery,Dal,"Saha, Krish and Bhattacharyya",30394.19,40,4.2,43,965,SEL025
+PRD0281,"Sunder, Hayer and Wagle Badminton",Sports,Badminton,Chahal-Prabhu,65170.73,50,4.8,166,569,SEL036
+PRD0282,Pingle-Shan LEGO,Toys,LEGO,Dara-Brar,45928.57,5,2.8,1013,292,SEL102
+PRD0283,"Deo, Yohannan and Aggarwal Textbook",Books,Textbook,"Dhaliwal, Venkataraman and Kurian",62650.63,40,3.5,2658,657,SEL072
+PRD0284,"Arora, Pant and Khurana Pressure Cooker",Home & Kitchen,Pressure Cooker,Kalita and Sons,31118.6,20,3.4,3331,210,SEL049
+PRD0285,Mitter LLC Shoes,Fashion,Shoes,"Iyengar, Chawla and Bajaj",11138.64,20,2.5,3249,840,SEL147
+PRD0286,"Singhal, Gade and Sangha Cricket Bat",Sports,Cricket Bat,Sama-Ahuja,79478.39,5,3.0,3398,719,SEL099
+PRD0287,"Sunder, Desai and Saha Badminton",Sports,Badminton,Modi and Sons,7120.07,30,3.6,219,421,SEL175
+PRD0288,Prakash PLC Self-Help,Books,Self-Help,"Seth, Oommen and Sem",26324.49,5,2.6,3201,110,SEL044
+PRD0289,Ratta LLC Moisturizer,Beauty,Moisturizer,Chadha-Walia,9131.41,15,3.9,2239,748,SEL150
+PRD0290,Comar-Badal Mobile,Electronics,Mobile,"Hayer, Palla and Chanda",15615.26,15,3.2,2237,220,SEL122
+PRD0291,Kuruvilla and Sons Doll,Toys,Doll,"Swamy, Kashyap and Barman",52560.48,15,4.9,2251,546,SEL026
+PRD0292,Shere LLC Cricket Bat,Sports,Cricket Bat,Bir-Choudhry,66050.69,50,4.5,2183,90,SEL187
+PRD0293,Ramesh-Vyas Mobile,Electronics,Mobile,Memon-Pathak,69204.77,40,4.0,318,75,SEL065
+PRD0294,"Mammen, Kapadia and Rajagopal T-Shirt",Fashion,T-Shirt,"Khare, Madan and Barad",32066.51,20,3.9,4845,678,SEL169
+PRD0295,Bir LLC T-Shirt,Fashion,T-Shirt,Bhardwaj Group,3852.47,20,4.1,1333,915,SEL010
+PRD0296,"Chandra, Bhatti and Vaidya Bedsheet",Home & Kitchen,Bedsheet,Buch-Saran,68264.6,5,3.5,4468,33,SEL192
+PRD0297,"Lala, Aurora and Sarna Watch",Fashion,Watch,Mandal-Andra,48197.63,15,3.2,1009,977,SEL198
+PRD0298,"Kala, Randhawa and Dayal Textbook",Books,Textbook,"Mishra, Deshmukh and Vohra",40180.43,25,3.3,2149,909,SEL040
+PRD0299,"Kapur, Barad and Sarraf Laptop",Electronics,Laptop,"Gera, Deshpande and Ratti",25574.16,5,3.6,3926,579,SEL172
+PRD0300,Ganguly and Sons Shoes,Fashion,Shoes,"Natt, Arya and Mahajan",66994.81,5,3.0,4462,391,SEL016
+PRD0301,Mangal-Prabhu Kurti,Fashion,Kurti,"Kibe, Bassi and Reddy",62987.0,5,4.6,717,809,SEL127
+PRD0302,Shetty and Sons Jeans,Fashion,Jeans,"Dyal, Loke and Vohra",70158.56,5,4.0,2544,948,SEL005
+PRD0303,Munshi-Prabhakar LED Light,Home & Kitchen,LED Light,"Kurian, Barad and Baria",72501.67,0,2.9,4276,568,SEL168
+PRD0304,Chandran LLC Kurti,Fashion,Kurti,Bala LLC,7406.65,10,4.6,3773,871,SEL162
+PRD0305,"Prasad, Sharaf and Pathak Dumbbells",Sports,Dumbbells,"Biswas, Parmar and Padmanabhan",10980.56,40,4.8,625,791,SEL156
+PRD0306,"Barad, Venkatesh and Chandra Comics",Books,Comics,"Hari, Nadkarni and Mukhopadhyay",38141.13,50,3.4,3127,301,SEL110
+PRD0307,"Biswas, Ghosh and Parikh Fiction",Books,Fiction,"Vora, Basak and Ahuja",19145.43,5,2.6,4100,308,SEL158
+PRD0308,"Dasgupta, Sane and Jaggi Shoes",Fashion,Shoes,Sahni PLC,9813.03,20,2.9,1253,121,SEL090
+PRD0309,"Om, Memon and Bala Cricket Bat",Sports,Cricket Bat,Patil-Rattan,6137.01,15,2.7,2758,223,SEL085
+PRD0310,"Nagarajan, Sood and Goda Smartwatch",Electronics,Smartwatch,Sahota-Ghose,47765.12,30,4.9,1529,397,SEL018
+PRD0311,Narain PLC LEGO,Toys,LEGO,"Bhagat, Jaggi and Chandra",65141.19,25,2.9,2657,179,SEL194
+PRD0312,"Walia, Wali and Tella Oil",Grocery,Oil,Purohit Ltd,71479.02,0,2.8,2986,289,SEL125
+PRD0313,Chanda Group Shoes,Fashion,Shoes,Naidu-Hari,46720.77,20,3.8,2950,436,SEL100
+PRD0314,Mittal and Sons Yoga Mat,Sports,Yoga Mat,"Narula, Nagar and Loyal",78493.87,0,3.4,4850,643,SEL180
+PRD0315,"Dara, Kala and Sandal Sunscreen",Beauty,Sunscreen,Anne PLC,36140.85,30,3.0,2992,796,SEL130
+PRD0316,"Shroff, More and Sunder Yoga Mat",Sports,Yoga Mat,"Chaudhari, Tank and Kohli",68146.44,10,3.6,717,466,SEL040
+PRD0317,Behl Ltd Doll,Toys,Doll,Vig-Hayre,10704.86,25,3.5,222,265,SEL098
+PRD0318,Dhawan-Chacko Smartwatch,Electronics,Smartwatch,Kashyap and Sons,1853.3,0,2.7,2258,113,SEL057
+PRD0319,Sule-Prashad Smartwatch,Electronics,Smartwatch,Thakur-Gola,40764.06,30,4.7,2145,41,SEL180
+PRD0320,Madan-Virk Rice,Grocery,Rice,Kannan-Halder,70162.06,0,4.9,3383,418,SEL139
+PRD0321,Varghese Inc Earphones,Electronics,Earphones,Khanna-Bala,79062.62,5,3.7,4403,144,SEL002
+PRD0322,"Kamdar, Chander and Narayanan Masala",Grocery,Masala,Vaidya-Kashyap,13521.62,50,4.3,1007,359,SEL169
+PRD0323,Parekh LLC Pressure Cooker,Home & Kitchen,Pressure Cooker,Sanghvi-Manne,18388.01,50,2.9,1443,569,SEL040
+PRD0324,"Sharma, Cherian and Ganesan Cricket Bat",Sports,Cricket Bat,Ramakrishnan Inc,42907.2,40,3.3,1284,538,SEL050
+PRD0325,Ratti PLC Shampoo,Beauty,Shampoo,"Shenoy, Gole and Konda",2604.38,20,2.7,4550,274,SEL116
+PRD0326,Shah PLC Jeans,Fashion,Jeans,"Narula, Kamdar and Chacko",29873.41,5,4.3,2027,355,SEL171
+PRD0327,Nigam-Varkey Earphones,Electronics,Earphones,"Gandhi, Modi and Narasimhan",15579.48,40,4.8,1359,784,SEL165
+PRD0328,Kalita Group Mixer,Home & Kitchen,Mixer,Dasgupta-Chand,63334.08,30,3.2,2954,979,SEL126
+PRD0329,Shah LLC Tablet,Electronics,Tablet,Golla-Sidhu,60745.71,50,3.1,1055,948,SEL139
+PRD0330,"Nair, Puri and Narain Mobile",Electronics,Mobile,Babu-Dixit,1947.18,20,2.8,2366,931,SEL183
+PRD0331,Pingle-Rana Lipstick,Beauty,Lipstick,Kala-Ganguly,24137.52,25,4.7,1044,805,SEL196
+PRD0332,Sem-Lad Kurti,Fashion,Kurti,Mane Ltd,23068.5,50,3.5,3730,294,SEL188
+PRD0333,Bahl-Mohanty Mixer,Home & Kitchen,Mixer,"Zacharia, Dey and Kalita",14064.13,50,4.2,1839,23,SEL099
+PRD0334,"Khurana, Kadakia and Kalla Textbook",Books,Textbook,Atwal-Nagarajan,39842.86,50,4.1,214,689,SEL059
+PRD0335,Doshi Ltd Tea,Grocery,Tea,"Sani, Nagar and Taneja",46835.37,5,4.2,807,227,SEL170
+PRD0336,Subramaniam-Sami Oil,Grocery,Oil,"Verma, Mander and Mutti",74496.49,15,4.6,3307,610,SEL148
+PRD0337,"Raj, Vora and D’Alia Earphones",Electronics,Earphones,Parmer-Basu,65154.98,50,3.3,2831,936,SEL127
+PRD0338,Saxena-Chakrabarti Shampoo,Beauty,Shampoo,"Jhaveri, Borde and Jhaveri",55844.93,0,3.9,2289,191,SEL148
+PRD0339,Batta-Shan Smartwatch,Electronics,Smartwatch,"Mishra, Baral and Gade",48239.29,30,3.9,410,706,SEL077
+PRD0340,Deshmukh-Suri Lipstick,Beauty,Lipstick,Raman-Borde,41609.76,50,3.6,3100,68,SEL187
+PRD0341,Sem-Majumdar Smartwatch,Electronics,Smartwatch,Madan-Singhal,26558.18,40,3.1,3715,774,SEL070
+PRD0342,Cheema-Bhatia Sunscreen,Beauty,Sunscreen,Gulati-More,71499.71,5,3.5,1188,454,SEL107
+PRD0343,Sastry Inc Jeans,Fashion,Jeans,Doctor PLC,33489.46,50,2.7,4824,920,SEL142
+PRD0344,Narain LLC Laptop,Electronics,Laptop,Thaman LLC,28649.26,0,3.8,1602,490,SEL186
+PRD0345,"Sachar, Bail and Palla Board Game",Toys,Board Game,Sarkar Ltd,51229.81,30,3.2,2478,470,SEL199
+PRD0346,Koshy LLC Dal,Grocery,Dal,"Memon, Wadhwa and Rajagopalan",25882.54,0,3.8,1518,246,SEL191
+PRD0347,"Shanker, Kothari and Narula LED Light",Home & Kitchen,LED Light,Rout and Sons,13970.01,20,3.8,271,280,SEL021
+PRD0348,"Kadakia, Subramaniam and Varughese Dal",Grocery,Dal,Chacko-Deshmukh,24659.75,25,3.4,3273,614,SEL028
+PRD0349,"Devi, Tailor and Cherian Shampoo",Beauty,Shampoo,Menon Ltd,25260.26,20,4.6,4801,950,SEL008
+PRD0350,Karpe-Bhatti Board Game,Toys,Board Game,"Baria, Cheema and Samra",66736.0,30,2.5,2283,168,SEL095
+PRD0351,Rajagopalan-Ghose Rice,Grocery,Rice,Tailor-Dugar,19170.99,15,3.1,1192,635,SEL087
+PRD0352,Mandal-Khosla Dumbbells,Sports,Dumbbells,"Mitra, Uppal and Parsa",14543.59,15,4.6,2649,655,SEL138
+PRD0353,Warrior-Bhattacharyya Bedsheet,Home & Kitchen,Bedsheet,Goel-Rai,18147.47,20,2.6,1155,619,SEL112
+PRD0354,"Boase, Bansal and Natt Board Game",Toys,Board Game,"Sankaran, Reddy and Rajagopalan",72390.44,5,3.6,822,497,SEL076
+PRD0355,Aggarwal Group Pressure Cooker,Home & Kitchen,Pressure Cooker,"Suresh, Biswas and Datta",66346.16,0,3.3,3346,475,SEL139
+PRD0356,Khalsa-Tak Mixer,Home & Kitchen,Mixer,"Hans, Chakrabarti and Hans",28766.65,15,4.0,3336,391,SEL155
+PRD0357,Varughese-Garg Comics,Books,Comics,"Dey, Bhargava and Kala",68682.11,0,3.5,1043,839,SEL091
+PRD0358,Varughese-Bala Laptop,Electronics,Laptop,Som Group,9732.74,15,4.0,4106,46,SEL078
+PRD0359,"Ramakrishnan, Divan and Chandra Moisturizer",Beauty,Moisturizer,"Jayaraman, Lala and Lad",14836.48,0,3.5,4802,49,SEL028
+PRD0360,Srivastava-Sandhu Self-Help,Books,Self-Help,Edwin Inc,16971.13,15,3.7,4001,86,SEL155
+PRD0361,"Suri, Ray and Shah Mobile",Electronics,Mobile,"Ranganathan, Panchal and Prabhu",4697.88,0,3.0,4775,663,SEL088
+PRD0362,Deep-Kota Action Figure,Toys,Action Figure,Om-Gopal,30173.79,10,4.6,3094,732,SEL184
+PRD0363,Bhandari Group Badminton,Sports,Badminton,"Shetty, Yohannan and Pillai",5166.03,25,3.4,4922,316,SEL001
+PRD0364,Mistry-Pingle Tea,Grocery,Tea,Bains-Dayal,79800.2,10,3.1,2350,812,SEL200
+PRD0365,Shetty Ltd Lipstick,Beauty,Lipstick,Dhaliwal-Dara,10980.48,15,2.7,3164,666,SEL161
+PRD0366,"Mitter, Sur and Nagy Masala",Grocery,Masala,Bhatia and Sons,73288.12,50,4.4,2343,339,SEL097
+PRD0367,Srinivasan-Chadha Badminton,Sports,Badminton,Guha-Gole,58726.66,15,3.6,978,629,SEL076
+PRD0368,Parikh LLC Lipstick,Beauty,Lipstick,Jhaveri-Dewan,54230.45,5,4.8,3707,997,SEL128
+PRD0369,Subramanian-Dugal Doll,Toys,Doll,"Chauhan, Dora and Pathak",56934.3,25,2.6,1458,674,SEL121
+PRD0370,Baral PLC Action Figure,Toys,Action Figure,Apte-Kar,10045.48,10,3.9,2640,488,SEL141
+PRD0371,Shere-Wason Smartwatch,Electronics,Smartwatch,"Din, Lal and Dixit",52991.36,0,2.9,2024,70,SEL173
+PRD0372,"Viswanathan, Gokhale and Devi Shoes",Fashion,Shoes,Ganesan LLC,38302.91,50,4.2,3629,24,SEL099
+PRD0373,"Pathak, Minhas and Prabhakar Masala",Grocery,Masala,Deshpande-Krishnamurthy,16399.6,15,2.8,1635,700,SEL125
+PRD0374,Sethi-Sachdev Watch,Fashion,Watch,Khatri Ltd,28491.07,10,2.7,1140,387,SEL163
+PRD0375,"Jani, Bahri and Basu Dumbbells",Sports,Dumbbells,Sharma PLC,33156.1,40,2.7,2353,866,SEL039
+PRD0376,"Sem, Chacko and Baral Yoga Mat",Sports,Yoga Mat,Halder-Dass,1774.8,0,4.8,2015,464,SEL087
+PRD0377,Raghavan and Sons Self-Help,Books,Self-Help,"Zachariah, Anne and Dugar",69902.43,5,3.0,2137,447,SEL089
+PRD0378,Merchant Group Doll,Toys,Doll,Kurian Inc,49027.83,10,4.9,4395,730,SEL067
+PRD0379,"Kaul, Andra and Sahni Shoes",Fashion,Shoes,Rout PLC,52745.92,15,4.5,4080,422,SEL088
+PRD0380,Baria PLC Kurti,Fashion,Kurti,Solanki PLC,71646.57,50,2.8,782,100,SEL200
+PRD0381,Ganesan Ltd Cricket Bat,Sports,Cricket Bat,Yohannan-Bahri,65171.28,25,2.9,3515,402,SEL075
+PRD0382,Kuruvilla-Kalita Bedsheet,Home & Kitchen,Bedsheet,Dar-Chokshi,35637.06,15,4.7,3031,65,SEL037
+PRD0383,"Nair, Bhattacharyya and Parmar Dal",Grocery,Dal,"Saran, Devi and Dass",79474.19,25,4.9,1817,985,SEL064
+PRD0384,Bose Inc Oil,Grocery,Oil,"Sharaf, Tailor and Sahni",53827.67,25,4.8,3171,628,SEL121
+PRD0385,Chada Inc LEGO,Toys,LEGO,Dhawan Group,42338.34,50,3.2,3498,163,SEL043
+PRD0386,Panchal Inc Dumbbells,Sports,Dumbbells,Basak-Sankar,56667.22,5,2.6,3342,640,SEL036
+PRD0387,Madan-Bhatnagar Moisturizer,Beauty,Moisturizer,Rajagopal-Choudhry,76687.98,10,4.9,3440,334,SEL099
+PRD0388,Ramaswamy-Bhandari Moisturizer,Beauty,Moisturizer,Barman-Raju,11482.41,0,4.7,1045,768,SEL115
+PRD0389,Magar Inc Doll,Toys,Doll,"Vaidya, Sarkar and Borah",14386.88,15,4.3,188,628,SEL113
+PRD0390,Narayanan Inc Textbook,Books,Textbook,Butala LLC,54800.94,20,4.7,607,134,SEL148
+PRD0391,"Kakar, Pandit and Dubey Kurti",Fashion,Kurti,Gandhi-Parikh,34995.04,25,4.8,1534,150,SEL051
+PRD0392,"Sidhu, Minhas and Pal Badminton",Sports,Badminton,Badami-Khare,36944.45,0,3.2,2835,995,SEL127
+PRD0393,"Rout, Narayanan and Sengupta Dal",Grocery,Dal,Sandhu-Ravi,29917.75,50,3.2,435,469,SEL007
+PRD0394,Din-Choudhury Self-Help,Books,Self-Help,"Wason, Shetty and Cherian",51995.92,50,2.8,2407,463,SEL143
+PRD0395,Dada Inc Pressure Cooker,Home & Kitchen,Pressure Cooker,Tata-Jain,15485.78,10,4.2,4658,715,SEL181
+PRD0396,"Sur, Kota and Varughese Dumbbells",Sports,Dumbbells,Barman-Ramanathan,5169.3,30,3.7,3657,12,SEL102
+PRD0397,Dutt Ltd Comics,Books,Comics,"Chowdhury, Divan and Dara",50429.71,10,4.6,4271,436,SEL052
+PRD0398,Nadig PLC Mobile,Electronics,Mobile,Dhar Ltd,5435.72,10,4.7,1251,27,SEL013
+PRD0399,Tank-Walla Dumbbells,Sports,Dumbbells,Ramachandran-Chaudhry,10163.69,20,4.4,4459,208,SEL053
+PRD0400,Varkey Group Comics,Books,Comics,Agate Group,67936.77,30,2.6,4183,170,SEL177
+PRD0401,Magar Ltd Doll,Toys,Doll,"Dalal, Bassi and Panchal",57916.34,5,4.2,3132,8,SEL086
+PRD0402,Barad Group Dumbbells,Sports,Dumbbells,Srivastava-Saxena,71257.67,10,2.6,3044,939,SEL108
+PRD0403,Lall-Kant Cricket Bat,Sports,Cricket Bat,"Buch, Master and Chand",9142.28,15,2.9,3037,781,SEL024
+PRD0404,"Chowdhury, Basu and Manda Textbook",Books,Textbook,Srinivas-Parekh,4040.98,0,2.7,2728,298,SEL101
+PRD0405,"Nadkarni, Khalsa and Atwal Shoes",Fashion,Shoes,Atwal-Narain,27631.2,50,4.3,501,553,SEL013
+PRD0406,"Radhakrishnan, Bali and Goda Fiction",Books,Fiction,Mallick-Dash,22903.01,5,2.7,513,278,SEL062
+PRD0407,"Setty, Sule and Varghese Kurti",Fashion,Kurti,"Ratta, Rau and Tandon",32483.07,50,3.3,1759,853,SEL085
+PRD0408,Hayre-Pandit Fiction,Books,Fiction,"Gulati, Upadhyay and Doctor",21991.52,15,3.7,3762,327,SEL091
+PRD0409,"Mannan, Sharma and Chakrabarti Laptop",Electronics,Laptop,"Chana, Bains and Khurana",3412.92,0,2.8,3313,528,SEL082
+PRD0410,"Kapadia, Wadhwa and Wason LEGO",Toys,LEGO,"Natarajan, Joshi and Bhargava",35817.93,40,4.6,3702,562,SEL068
+PRD0411,"Sahota, Ahluwalia and Mishra Mobile",Electronics,Mobile,"Prashad, Comar and Kota",76967.22,0,2.9,3799,809,SEL169
+PRD0412,"Contractor, Khalsa and Badami Shoes",Fashion,Shoes,"Atwal, Desai and Srinivasan",71801.75,50,4.2,1682,495,SEL180
+PRD0413,Hayer and Sons Shoes,Fashion,Shoes,Chanda-Saxena,7518.04,25,3.8,3198,434,SEL133
+PRD0414,"Master, Salvi and Walia Action Figure",Toys,Action Figure,Suri-Tata,6860.74,40,4.6,3167,449,SEL092
+PRD0415,Bawa-Thakkar Self-Help,Books,Self-Help,Palla LLC,12828.52,5,3.7,351,736,SEL083
+PRD0416,Nanda Group Earphones,Electronics,Earphones,Deshmukh Ltd,77573.24,50,3.0,1563,261,SEL092
+PRD0417,Vaidya PLC Watch,Fashion,Watch,"Hegde, Amble and Bhatia",27854.81,25,3.6,1238,558,SEL095
+PRD0418,Vaidya-Pathak Textbook,Books,Textbook,Bakshi-Chanda,76150.83,15,3.9,4870,788,SEL195
+PRD0419,Viswanathan-Bora LED Light,Home & Kitchen,LED Light,"Sanghvi, Reddy and Rajagopalan",12779.83,30,4.1,782,479,SEL199
+PRD0420,Bhatnagar-Arya Oil,Grocery,Oil,Bhakta PLC,44786.67,5,4.2,4428,833,SEL069
+PRD0421,Koshy Ltd Doll,Toys,Doll,Kuruvilla Group,43866.84,15,2.5,1668,6,SEL039
+PRD0422,Aggarwal-Mutti Lipstick,Beauty,Lipstick,Andra-Chawla,12649.34,40,2.9,3157,440,SEL152
+PRD0423,"Deshpande, Keer and Sachdev Textbook",Books,Textbook,"Babu, Chopra and Nagar",25366.63,25,4.5,511,168,SEL082
+PRD0424,Raghavan-Nayak LED Light,Home & Kitchen,LED Light,"Vig, Bajaj and Nadig",75473.86,30,2.8,1964,4,SEL140
+PRD0425,"Narang, Venkatesh and Mody Dal",Grocery,Dal,"Luthra, Sengupta and Kuruvilla",75313.08,0,3.8,4632,946,SEL121
+PRD0426,Rajagopalan-Issac Mixer,Home & Kitchen,Mixer,"Subramaniam, Gara and Natarajan",51130.74,15,3.9,1377,972,SEL124
+PRD0427,Balakrishnan-Patla Masala,Grocery,Masala,Yogi Ltd,36497.65,5,2.8,4116,299,SEL036
+PRD0428,"Johal, Rajagopal and Sami Lipstick",Beauty,Lipstick,"Kashyap, Oak and Gokhale",55478.86,40,4.1,3204,203,SEL001
+PRD0429,"Bir, Shukla and Bir Mobile",Electronics,Mobile,"Gala, Choudhry and Kari",35434.7,5,2.9,403,847,SEL037
+PRD0430,Agrawal Inc Yoga Mat,Sports,Yoga Mat,Kapur PLC,15517.3,20,3.7,434,357,SEL190
+PRD0431,"Kakar, Dhingra and Sundaram Masala",Grocery,Masala,Chandran Inc,78837.18,5,4.4,3509,957,SEL031
+PRD0432,Zachariah Group Rice,Grocery,Rice,Borah Inc,30127.05,30,3.4,3276,412,SEL198
+PRD0433,Choudhry-Nagi Masala,Grocery,Masala,"Deo, Raval and Sandal",23714.85,30,3.8,1931,199,SEL074
+PRD0434,"Sehgal, Nair and Balasubramanian Cricket Bat",Sports,Cricket Bat,"Vohra, Sem and Mani",1446.36,25,2.9,2316,967,SEL036
+PRD0435,"Mall, Hans and Gole LEGO",Toys,LEGO,Kuruvilla-Mangat,15742.32,40,4.1,1503,130,SEL023
+PRD0436,Hari-Sastry Kurti,Fashion,Kurti,Oza-Dass,19547.99,0,3.6,2974,709,SEL073
+PRD0437,Sant LLC Dal,Grocery,Dal,Zachariah-Dayal,33735.61,5,3.3,4816,117,SEL022
+PRD0438,"Ganguly, Borde and Iyengar Moisturizer",Beauty,Moisturizer,Badal Group,59630.47,5,2.6,3261,725,SEL039
+PRD0439,"Buch, Warrior and Keer Action Figure",Toys,Action Figure,"Salvi, Barad and Karan",2506.86,0,2.8,2866,573,SEL147
+PRD0440,"Goswami, Nigam and Shere Textbook",Books,Textbook,Ganguly LLC,67583.4,25,4.0,4567,940,SEL053
+PRD0441,Sama LLC Textbook,Books,Textbook,Dixit and Sons,23157.34,50,4.3,2944,503,SEL023
+PRD0442,Wali-Bhatnagar Mixer,Home & Kitchen,Mixer,Bhat and Sons,22730.86,30,3.7,757,837,SEL065
+PRD0443,Varkey-Sharaf Board Game,Toys,Board Game,"Nagy, Saha and Mann",77625.42,50,4.8,3183,873,SEL073
+PRD0444,"Ramanathan, Ganguly and Lad Self-Help",Books,Self-Help,Soman and Sons,1884.51,15,2.7,4063,709,SEL036
+PRD0445,Varty Inc Doll,Toys,Doll,"Memon, Joshi and Dutta",29221.13,50,2.9,3228,551,SEL086
+PRD0446,Sarin-Prasad Yoga Mat,Sports,Yoga Mat,Bains Inc,79080.68,40,4.2,2386,2,SEL011
+PRD0447,Kaul LLC Laptop,Electronics,Laptop,"Lad, Shanker and Srivastava",1712.25,30,4.2,717,311,SEL171
+PRD0448,Sura-Tank Action Figure,Toys,Action Figure,Dugal-Rattan,25604.38,0,3.9,2778,286,SEL054
+PRD0449,"Nath, Kar and Zacharia Bedsheet",Home & Kitchen,Bedsheet,"Divan, Parmar and Arora",70199.06,30,4.9,1672,747,SEL015
+PRD0450,Bala-Narayan Self-Help,Books,Self-Help,Johal-Mane,25655.45,30,4.6,1788,390,SEL154
+PRD0451,Pandya-Master Fiction,Books,Fiction,Bava LLC,7198.26,0,2.6,318,603,SEL014
+PRD0452,Shukla and Sons Fiction,Books,Fiction,"Mangal, Patel and Dugar",44265.9,50,2.8,39,828,SEL080
+PRD0453,Dani-Dar Laptop,Electronics,Laptop,"Bhagat, Minhas and Dutta",42161.85,15,3.3,2292,66,SEL086
+PRD0454,Brar LLC Mixer,Home & Kitchen,Mixer,"Pillay, Ravel and Parmar",49749.92,15,2.6,2160,723,SEL057
+PRD0455,Grewal Inc Masala,Grocery,Masala,Ganguly-Panchal,34004.57,15,4.4,3236,174,SEL137
+PRD0456,"Dugar, Srinivas and Varkey Tablet",Electronics,Tablet,Balasubramanian-Choudhary,63120.13,5,2.9,1133,690,SEL163
+PRD0457,Sankaran-Sunder Action Figure,Toys,Action Figure,Panchal and Sons,27935.77,20,4.4,2110,787,SEL118
+PRD0458,Radhakrishnan Group Earphones,Electronics,Earphones,Halder-Sankar,72913.28,15,2.7,733,37,SEL090
+PRD0459,Kota LLC Self-Help,Books,Self-Help,Sinha and Sons,718.94,30,3.7,1671,619,SEL115
+PRD0460,Memon PLC Yoga Mat,Sports,Yoga Mat,"Khanna, Gupta and Vasa",7618.43,5,4.4,1156,683,SEL109
+PRD0461,Narayanan and Sons Comics,Books,Comics,"Sheth, Sem and Parsa",79895.92,25,4.1,860,415,SEL125
+PRD0462,Dasgupta-Bir Doll,Toys,Doll,Saini PLC,55221.83,5,3.8,3931,407,SEL033
+PRD0463,Bora Group Comics,Books,Comics,Peri LLC,74150.61,30,3.9,2938,25,SEL023
+PRD0464,"Behl, Bawa and Talwar Board Game",Toys,Board Game,Srivastava-Bali,36818.22,30,2.9,1311,188,SEL109
+PRD0465,"Chaudhari, Bala and Biswas Doll",Toys,Doll,Bansal-Date,35536.07,50,2.5,1605,458,SEL165
+PRD0466,"Varkey, Nori and Narang Action Figure",Toys,Action Figure,Dani PLC,75970.71,25,2.9,4518,938,SEL165
+PRD0467,Char Inc Smartwatch,Electronics,Smartwatch,Sangha-Rout,23350.14,15,4.5,4643,548,SEL028
+PRD0468,Devan Inc LED Light,Home & Kitchen,LED Light,"Raju, Bhasin and Dubey",27344.8,40,3.7,1257,444,SEL083
+PRD0469,Amble Ltd Masala,Grocery,Masala,Khalsa-Srinivas,23746.05,50,4.6,4573,378,SEL190
+PRD0470,Grover Group Earphones,Electronics,Earphones,Gupta LLC,2394.63,5,4.8,2393,127,SEL198
+PRD0471,Kuruvilla Ltd Rice,Grocery,Rice,"Subramaniam, Devi and Dugar",71360.73,30,3.3,4527,596,SEL049
+PRD0472,Vala Ltd Jeans,Fashion,Jeans,Shere Group,47238.99,25,4.7,2884,820,SEL024
+PRD0473,Dara-Mitter Rice,Grocery,Rice,Kalita-Kala,51880.56,20,3.8,332,57,SEL167
+PRD0474,"Dave, Kant and Ghose Moisturizer",Beauty,Moisturizer,Aurora and Sons,398.81,10,3.2,4879,720,SEL164
+PRD0475,Sen and Sons Bedsheet,Home & Kitchen,Bedsheet,Luthra-Saini,44916.19,40,3.4,3803,50,SEL161
+PRD0476,"Dewan, Dube and Goel Fiction",Books,Fiction,Oza LLC,61926.62,15,2.5,842,748,SEL039
+PRD0477,Raja Inc Moisturizer,Beauty,Moisturizer,Chauhan-Bassi,5151.44,50,3.5,305,505,SEL071
+PRD0478,Datta PLC Mixer,Home & Kitchen,Mixer,"Sundaram, Ghosh and Goel",32149.94,25,2.9,1494,165,SEL059
+PRD0479,Solanki Group Comics,Books,Comics,Viswanathan-Kurian,48398.01,5,4.1,138,393,SEL044
+PRD0480,Chowdhury-Solanki Mobile,Electronics,Mobile,Ghosh-Nath,62607.6,40,4.1,172,962,SEL035
+PRD0481,Deshmukh and Sons Yoga Mat,Sports,Yoga Mat,Misra-Bhatnagar,72380.65,30,2.8,4713,462,SEL094
+PRD0482,Oak Inc Comics,Books,Comics,Sachdev-Soni,75618.0,20,5.0,2685,506,SEL177
+PRD0483,Narain Group Kurti,Fashion,Kurti,Gola and Sons,24440.79,25,4.8,4073,261,SEL013
+PRD0484,Wadhwa-Chad Doll,Toys,Doll,Arya-Yogi,63129.42,25,4.1,2083,962,SEL096
+PRD0485,Mannan-Malhotra Textbook,Books,Textbook,Mangal and Sons,26457.99,5,3.2,3525,917,SEL141
+PRD0486,"Hans, Kota and Narain LEGO",Toys,LEGO,Parmar Group,74201.9,50,3.0,2202,518,SEL051
+PRD0487,Gupta-Sarin Yoga Mat,Sports,Yoga Mat,"Chanda, Dar and Kannan",52924.97,25,4.1,3524,645,SEL041
+PRD0488,Dhar-Uppal Doll,Toys,Doll,Kurian Ltd,17305.95,30,4.6,4250,320,SEL062
+PRD0489,Sahni-Hayer Mixer,Home & Kitchen,Mixer,Bahl-Sekhon,68861.1,40,3.7,4306,482,SEL002
+PRD0490,"Ghosh, Prakash and Kant Yoga Mat",Sports,Yoga Mat,"Yogi, Varughese and Mann",12767.5,30,4.4,4604,223,SEL169
+PRD0491,Jani-Sastry Dumbbells,Sports,Dumbbells,Soni-Baria,19546.21,30,5.0,2772,887,SEL138
+PRD0492,"Savant, Tata and Suri Earphones",Electronics,Earphones,Sama Inc,1951.15,20,3.3,498,369,SEL185
+PRD0493,Mahajan Ltd Tablet,Electronics,Tablet,Panchal-Raj,14030.73,20,3.5,1363,750,SEL003
+PRD0494,"Sehgal, Bhasin and Bhatt Smartwatch",Electronics,Smartwatch,Dube Ltd,15806.04,10,4.8,4953,776,SEL051
+PRD0495,Bhasin-Dutta Smartwatch,Electronics,Smartwatch,Pradhan LLC,35774.58,40,4.8,4845,322,SEL070
+PRD0496,Naidu LLC Moisturizer,Beauty,Moisturizer,Divan and Sons,19373.05,0,2.7,1138,343,SEL144
+PRD0497,"Gokhale, Kota and Sridhar Moisturizer",Beauty,Moisturizer,"Aggarwal, Kota and Suresh",28380.07,10,4.2,49,307,SEL088
+PRD0498,"Rout, Wadhwa and Ben Laptop",Electronics,Laptop,Mistry-Dua,76755.74,5,3.3,2823,232,SEL017
+PRD0499,Pathak-Zachariah Bedsheet,Home & Kitchen,Bedsheet,"Sengupta, Madan and Jain",47750.17,15,4.6,4036,635,SEL195
+PRD0500,Patla-Varkey Lipstick,Beauty,Lipstick,Khatri-Deshpande,6339.62,5,2.8,1967,672,SEL091
